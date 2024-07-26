@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="asit_docker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/asit_docker_jar</output-path>
+    <root id="archive" name="asit_docker.jar">
+      <element id="module-output" name="asit_docker" />
+    </root>
+  </artifact>
+</component>
